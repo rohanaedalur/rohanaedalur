@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rohanaedalur
-- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning basic coding
 - 💞️ I’m looking to collaborate on simple projects that can help me upskill
 - 📫 How to reach me: email- edalur.rohana@gmail.com
